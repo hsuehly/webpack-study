@@ -1,0 +1,14 @@
+$width: 300px;
+$height: 200px;
+
+ul {
+  li {
+    color: goldenrod;
+  }
+}
+
+div {
+  width: $width;
+  height: $height;
+  color: chartreuse;
+}

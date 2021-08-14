@@ -1,0 +1,23 @@
+$width: 300px;
+$height: 200px;
+
+ul {
+  li {
+    color: goldenrod;
+  }
+}
+
+.box1 {
+  width: $width;
+  height: $height;
+  color: chartreuse;
+  border: 1px solid #999;
+  background-image: url(../assets/avatar.jpeg);
+
+}
+
+.box2 {
+  width: 300px;
+  height: 200px;
+  background-image: url(../assets/deepin-launcher.svg);
+}

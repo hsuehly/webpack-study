@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(135, 145, 233);
+  display: flex;
+  justify-content: center;
+}
+.box1 {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  box-sizing: border-box;
+  backface-visibility: hidden;
+
+}
